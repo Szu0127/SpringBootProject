@@ -1,0 +1,11 @@
+server:
+    port: 8082
+
+
+name: mary
+age: 18
+
+profiles:
+    username: jim
+    address: taiwan
+    phone: "0987654321"
